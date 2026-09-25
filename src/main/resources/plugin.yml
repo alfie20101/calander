@@ -1,0 +1,4 @@
+name: CustomCalendar
+version: 1.0
+main: com.alfie20101.calendar.CalendarPlugin
+api-version: '1.20'
